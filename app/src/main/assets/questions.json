@@ -1,0 +1,163 @@
+{
+    "questions" : [
+        {
+            "code" : "http://www.mira.be/nl/sterrenwacht/jeugdkern",
+            "question" : "1. Welke planeet is het kleinst?",
+            "answers" : [ "Venus", "Mercurius", "Neptunus"],
+            "correctAnswer" : 1
+        },
+        {
+            "code" : "vraag2",
+            "question" : "2. De dichtsbijzijnde ster is:",
+            "answers" : [ "Sirius", "Alpha Centauri", "De Zon"],
+            "correctAnswer" : 2
+        },
+        {
+            "code" : "vraag3",
+            "question" : "3. Hoeveel sterren bevat het Zevengesternte (A.K.A. Pleiaden)?",
+            "answers" : [ "6", "7", "Honderden"],
+            "correctAnswer" : 2
+        },
+        {
+            "code" : "vraag4",
+            "question" : "4. Wat hoor NIET bij Isaac Newton??",
+            "answers" : [ "Zwaartekracht", "Exoplaneten", "Fysica"],
+            "correctAnswer" : 1
+        },
+        {
+            "code" : "vraag5",
+            "question" : "5. Hoe heten de 4 bekendste manen van Jupiter?",
+            "answers" : [
+                "Titan, Europa, Phobos, Callisto",
+                "Phobos, Io, Ganymedes en Titan",
+                "Callisto, Io, Ganymedes en Europa"
+            ],
+            "correctAnswer" : 2
+        },
+        {
+            "code" : "vraag6",
+            "question" : "6. Hoe noemen we een ontploffing van een rode reus?",
+            "answers" : [
+                "Supernova",
+                "Superknal",
+                "Supernavo"
+            ],
+            "correctAnswer" : 0
+        },
+        {
+            "code" : "vraag7",
+            "question" : "7. Hoe oud is ons universum?",
+            "answers" : [
+                    "Ongeveer 4.6 miljard jaar",
+                    "Ongeveer 8.6 miljard jaar",
+                    "Ongeveer 13,6 miljard jaar."],
+            "correctAnswer" : 2
+        },
+        {
+            "code" : "vraag8",
+            "question" : "8. Hoe noemen we het 'niezen' van de zon?",
+            "answers" : [
+                "Zonne-nies",
+                "Zonnewind",
+                "Zonnestraal"
+            ],
+            "correctAnswer" : 1 
+        },
+        {
+            "code" : "vraag9",
+            "question" : "9. Wanneer werden de Voyager I en II gelanceerd?",
+            "answers" : [
+                "Gisteren",
+                "Ongeveer 24 jaar geleden.",
+                "Ongeveer 37 jaar geleden."
+            ],
+            "correctAnswer" : 2
+        },
+        {
+            "code" : "vraag10",
+            "question" : "10. Waarom wegen we minder op Mars?",
+            "answers" : [
+                "De twee zware manen hebben een grote aantrekkingskracht.",
+                "De zwaartekracht is er minder sterk.",
+                "De planeet draait veel sneller om haar as dan de Aarde."
+            ],
+            "correctAnswer" : 1
+        },
+        {
+            "code" : "vraag11",
+            "question" : "11. Welk van onze continenten vinden we terug in ons zonnestelsel?",
+            "answers" : [
+                "Europa",
+                "Amerika",
+                "Oceanië"
+            ],
+            "correctAnswer" : 0
+        },
+        {
+            "code" : "vraag12",
+            "question" : "12. In welk seizoen zien we het Orion sterrenbeeld het beste?",
+            "answers" : [
+                "Zomer",
+                "Lente",
+                "Winter"
+            ],
+            "correctAnswer" : 2
+        },
+        {
+            "code" : "vraag13",
+            "question" : "13. Hoe heet de tweede dichtstbijzijnde ster?",
+            "answers" : [
+                "Proxima Centurion",
+                "Proxima Proximus",
+                "Proxima Centauri"
+            ],
+            "correctAnswer" : 2
+        },
+        {
+            "code" : "vraag14",
+            "question" : "14. Aan welke stof dankt Neptunus zijn mooie blauwe kleur?",
+            "answers" : [
+                "Stikstof",
+                "Methaan",
+                "Zwavel"
+            ],
+            "correctAnswer" : 1
+        },
+        {
+            "code" : "vraag15",
+            "question" : "15. Welke 2 honden zijn al in de ruimte geweest?",
+            "answers" : [
+                "Laika en Rataplan",
+                "Laika en Samson",
+                "Laika en Lassie"
+            ],
+            "correctAnswer" : 1
+        },
+        {
+            "code" : "vraag16",
+            "question" : "16. Wanneer werd Volkssterrenwacht MIRA opgericht?",
+            "answers" : [
+                "In 1831",
+                "In 1967",
+                "In 2001"
+            ],
+            "correctAnswer" : 1
+        },
+         {
+            "code" : "vraag17",
+            "question" : "17. Nicolaas Copernicus zei ooit:",
+            "answers" : [
+                "'De Aarde draait rond de Zon'",
+                "'De Maan draait rond de Mars'",
+                "'Ik ben Copernicus, Nicolaas Copernicus.'"
+            ],
+            "correctAnswer" : 0
+        },
+        {
+            "code" : "vraag18",
+            "question" : "18. De Spaceshuttle is al op de Maan geweest?",
+            "answers" : [ "Ja", "Nee"],
+            "correctAnswer" : 1
+        }
+    ]
+}
